@@ -1,0 +1,36 @@
+{
+  "name": "@rowanmanning/minecraft-inventory-inspector",
+  "version": "0.0.0",
+  "description": "Inspect the inventories and ender chests of players on a Vanilla Minecraft server, rendering results as Markdown.",
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "Rowan Manning (https://rowanmanning.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanmanning/minecraft-inventory-inspector.git"
+  },
+  "homepage": "https://github.com/rowanmanning/minecraft-inventory-inspector",
+  "bugs": "https://github.com/rowanmanning/minecraft-inventory-inspector/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "got": "^11.3.0",
+    "prismarine-nbt": "^1.3.0",
+    "title": "^3.4.2"
+  },
+  "devDependencies": {
+    "@rowanmanning/eslint-config": "^2.1.0",
+    "@rowanmanning/make": "^2.1.0",
+    "eslint": "^6.8.0"
+  },
+  "main": "./index.js",
+  "bin": {
+    "mii": "./index.js"
+  },
+  "scripts": {
+    "test": "make ci"
+  }
+}
