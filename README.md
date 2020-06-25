@@ -3,6 +3,12 @@
 
 Inspect the inventories and ender chests of players on a Vanilla Minecraft server, rendering results as Markdown.
 
+Caveats:
+
+1. I probably don't maintain this any more, I needed it once and don't care about it a lot
+2. I tested this with Minecraft 1.15 and 1.16. It may break in future
+3. This only works for servers, it will ignore the player data for single player worlds and probably output nothing
+
 
 ## Table of Contents
 
