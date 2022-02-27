@@ -6,7 +6,7 @@ Inspect the inventories and ender chests of players on a Vanilla Minecraft serve
 Caveats:
 
 1. I probably don't maintain this any more, I needed it once and don't care about it a lot
-2. I tested this with Minecraft 1.15 and 1.16. It may break in future
+2. I tested this with Minecraft 1.15, 1.16, 1.17, and 1.18. It may break in future
 3. This only works for servers, it will ignore the player data for single player worlds and probably output nothing
 
 
@@ -50,12 +50,7 @@ These commands will output Markdown which represents the player inventories. To 
 
 ## Contributing
 
-To contribute to this library, clone this repo locally and commit your code on a separate branch. Please write unit tests for your code, and run the linter before opening a pull-request:
-
-```sh
-make test    # run all tests
-make verify  # run all linters
-```
+[The contributing guide is available here](docs/contributing.md). All contributors must follow [this library's code of conduct](docs/code_of_conduct.md).
 
 
 ## License
