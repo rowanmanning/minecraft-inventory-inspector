@@ -33,7 +33,7 @@
     "@commitlint/config-conventional": "^16.2.4",
     "@rowanmanning/eslint-config": "^3.3.0",
     "eslint": "^8.10.0",
-    "husky": "^7.0.4"
+    "husky": "^8.0.1"
   },
   "bin": {
     "mii": "./index.js"
