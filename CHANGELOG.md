@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.3...v1.1.4) (2022-08-30)
+
+
+### Bug Fixes
+
+* bump title from 3.5.2 to 3.5.3 ([8935618](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/89356186e6fee1f1d2afb94ad231ff47993798bb))
+
 ## [1.1.3](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.2...v1.1.3) (2022-08-15)
 
 
