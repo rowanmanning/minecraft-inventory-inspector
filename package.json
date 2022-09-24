@@ -14,8 +14,8 @@
   "bugs": "https://github.com/rowanmanning/minecraft-inventory-inspector/issues",
   "license": "MIT",
   "engines": {
-    "node": ">=12",
-    "npm": ">=7"
+    "node": "12.x || 14.x || 16.x || 18.x",
+    "npm": "7.x || 8.x"
   },
   "scripts": {
     "verify": "npm run verify:eslint",
