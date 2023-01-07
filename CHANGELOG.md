@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.5...v1.1.6) (2023-01-07)
+
+
+### Bug Fixes
+
+* bump json5 from 2.2.1 to 2.2.3 ([d708bed](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/d708bedcce44d8c6113bcd6a292f3433831ed4be))
+
 ## [1.1.5](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.4...v1.1.5) (2022-12-21)
 
 
