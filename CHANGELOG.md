@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.6...v1.1.7) (2023-02-03)
+
+
+### Bug Fixes
+
+* bump http-cache-semantics from 4.1.0 to 4.1.1 ([f241a15](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/f241a15740b01f99c775ff377c3bcde29ff57c3a))
+
 ## [1.1.6](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.5...v1.1.6) (2023-01-07)
 
 
