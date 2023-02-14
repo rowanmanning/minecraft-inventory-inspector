@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.8](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.7...v1.1.8) (2023-02-14)
+
+
+### Bug Fixes
+
+* support npm v9 ([5e87e5a](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/5e87e5a391efc7da92367cb9adf1978b0c4db9fd))
+
 ## [1.1.7](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.6...v1.1.7) (2023-02-03)
 
 
