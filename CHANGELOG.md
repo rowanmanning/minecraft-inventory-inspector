@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.8...v2.0.0) (2023-03-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop official support for npm v7
+* drop support for Node.js 14
+
+### Miscellaneous
+
+* drop official support for npm v7 ([a44d204](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/a44d204df1c8e203519db86e7afef3d77486e0fd))
+* drop support for Node.js 14 ([1b5cc2a](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/1b5cc2abf3b64e022bca0f1615ed72fc3834c55d))
+
 ## [1.1.8](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.7...v1.1.8) (2023-02-14)
 
 
