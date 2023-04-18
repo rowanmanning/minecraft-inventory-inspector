@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v2.0.0...v2.0.1) (2023-04-18)
+
+
+### Bug Fixes
+
+* add support for Node.js 20 ([fb5a70b](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/fb5a70b1432c8063044349c14de917ca06c02b1e))
+* properly drop Node.js 12 / 14 support ([7604d63](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/7604d6353545a967f9b41976e1e06f4ab33d174d))
+
 ## [2.0.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v1.1.8...v2.0.0) (2023-03-25)
 
 
