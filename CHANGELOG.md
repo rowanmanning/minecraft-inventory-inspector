@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v2.0.1...v2.0.2) (2023-06-04)
+
+
+### Bug Fixes
+
+* stop using the legacy Mojang API ([f84f0e9](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/f84f0e9fb5baac74cf1b1607a3c87923cf386ae1))
+
 ## [2.0.1](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v2.0.0...v2.0.1) (2023-04-18)
 
 
