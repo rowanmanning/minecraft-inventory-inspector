@@ -25,9 +25,9 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "got": "^11.8.3",
     "prismarine-nbt": "^2.2.0",
-    "title": "^3.4.4"
+    "title": "^3.4.4",
+    "undici": "^5.22.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.0",
