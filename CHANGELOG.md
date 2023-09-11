@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.5](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v2.0.4...v2.0.5) (2023-09-11)
+
+
+### Bug Fixes
+
+* bump undici from 5.22.1 to 5.23.0 ([6c7c31e](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/6c7c31e21f854180268eecc70e534d44b97ea3c3))
+* bump undici from 5.23.0 to 5.24.0 ([9af4238](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/9af423842b41bb244bd560cde925a9342aaf41fb))
+
 ## 2.0.4 (2023-07-25)
 
 
