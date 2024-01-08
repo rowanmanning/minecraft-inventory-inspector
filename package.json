@@ -27,7 +27,7 @@
   "dependencies": {
     "prismarine-nbt": "^2.2.0",
     "title": "^3.4.4",
-    "undici": "^5.22.1"
+    "undici": "^6.3.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.2",
