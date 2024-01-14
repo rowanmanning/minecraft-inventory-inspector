@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.2](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.0.1...v3.0.2) (2024-01-14)
+
+
+### Bug Fixes
+
+* bump prismarine-nbt from 2.2.1 to 2.5.0 ([eb64fb0](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/eb64fb0a3238947a29dab0a95b88e344a3cef211))
+* migrate to native fetch ([86b6991](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/86b699102b30b34b8100ba08d44e227fe65b0b5c))
+
 ## [3.0.1](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.0.0...v3.0.1) (2023-11-22)
 
 
