@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.0.2...v3.1.0) (2024-01-29)
+
+
+### Features
+
+* add official support for npm 10 ([577319d](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/577319d517f13f6af8635cb16fe2d59412d810de))
+
 ## [3.0.2](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.0.1...v3.0.2) (2024-01-14)
 
 
