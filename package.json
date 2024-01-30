@@ -1,6 +1,6 @@
 {
   "name": "@rowanmanning/minecraft-inventory-inspector",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "description": "Inspect the inventories and ender chests of players on a Vanilla Minecraft server, rendering results as Markdown.",
   "keywords": [
     "minecraft"
