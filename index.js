@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 'use strict';
 
-const {getPlayersForWorld} = require('./lib/player');
-const {renderPlayerAsMarkdown} = require('./lib/render');
+const { getPlayersForWorld } = require('./lib/player');
+const { renderPlayerAsMarkdown } = require('./lib/render');
 
-inpectInventories().catch(error => {
+inpectInventories().catch((error) => {
 	console.error(error.message);
 	process.exitCode = 1;
 });
