@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.1.0...v3.2.0) (2024-06-23)
+
+
+### Features
+
+* add Node.js 22 support ([b2a0a7d](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/b2a0a7d619a895a68c60620d66affba6529f587b))
+
 ## [3.1.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.0.2...v3.1.0) (2024-01-30)
 
 
