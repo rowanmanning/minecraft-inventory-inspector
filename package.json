@@ -19,7 +19,7 @@
   "scripts": {
     "verify": "npm run verify:biome",
     "verify:biome": "biome check",
-    "prepare": "husky"
+    "prepare": "husky || true"
   },
   "dependencies": {
     "prismarine-nbt": "^2.2.0",
