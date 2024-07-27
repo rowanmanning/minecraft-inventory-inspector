@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.2.0...v3.2.1) (2024-07-27)
+
+
+### Bug Fixes
+
+* prevent husky from failing ([5c2b27c](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/5c2b27c2ffb59dbbc3685f7a637e979abee0452c))
+
 ## [3.2.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.1.0...v3.2.0) (2024-06-23)
 
 
