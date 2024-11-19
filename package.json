@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "prismarine-nbt": "^2.2.0",
-    "title": "^3.4.4"
+    "title": "^4.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
