@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.2.1...v4.0.0) (2025-03-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop Node.js 18
+
+### Miscellaneous Chores
+
+* drop Node.js 18 ([aa6c201](https://github.com/rowanmanning/minecraft-inventory-inspector/commit/aa6c201e43819313649824371229ea169fa7b9f9))
+
 ## [3.2.1](https://github.com/rowanmanning/minecraft-inventory-inspector/compare/v3.2.0...v3.2.1) (2024-07-27)
 
 
